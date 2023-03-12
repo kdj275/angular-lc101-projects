@@ -1,8 +1,10 @@
 .movies {
     color: coral;
-    font-size: 2.0vw;
+    font-size: large;
 }
 
 h3 {
     text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
 }
