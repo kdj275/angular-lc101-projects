@@ -1,0 +1,14 @@
+.chores {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: cornflowerblue;
+}
+
+h3 {
+    text-decoration: underline;
+    text-align:center;
+}
+
+li {
+    font-style: italic;
+}

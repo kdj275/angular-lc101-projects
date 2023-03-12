@@ -3,7 +3,9 @@ h3 {
 }
 
 img {
-
+   max-width: 400px;
+   max-height: 400px;
+   padding: 5px;
 }
 
 .photos {
